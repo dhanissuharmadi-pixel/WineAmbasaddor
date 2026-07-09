@@ -3,8 +3,7 @@
   <img src="https://i.imgur.com/3aXrc1P.png" width="220" alt="Ambassador Logo">
 </p>
 
-A silly little project for me to get familiar with swift and macOs.
-A minimal, personal Wine-based launcher for running Windows games on macOS. Specifically, Running steam games.
+A silly little project for me to get familiar with swift and macOS. A minimal, personal Wine-based launcher for running Windows games on macOS. Specifically, Running steam games.
 
 ## Dev quick start
 
