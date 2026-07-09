@@ -1,6 +1,6 @@
 # Ambasaddor
 <div style="display: flex; justify-content: center; width: 100%;">
-  <img src="https://imgur.com" width="450">
+  <img src=""https://i.imgur.com/3aXrc1P.png"" width="450">
 </div>
 A silly little project for me to get familiar with swift and macOs
 A minimal, personal Wine-based launcher for running Windows games on macOS. Specifically, Running steam games.
