@@ -1,5 +1,5 @@
 # Ambasaddor
-<div style="width: 450px; height: 320px; overflow: hidden; position: relative; margin: 0 auto; display: block;">
+<div style="width: 400px; height: 200px; overflow: hidden; position: relative; margin: 0 auto; display: block;">
   <img src="https://i.imgur.com/3aXrc1P.png" style="position: absolute; width: 900px; max-width: none; top: -140px; left: -225px;">
 </div>
 A silly little project for me to get familiar with swift and macOs
