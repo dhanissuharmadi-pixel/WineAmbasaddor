@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+*.xcodeproj
+xcuserdata/
+DerivedData/
+.DS_Store
+
+# App bundle (build output) + generated icon files
+/Ambassador.app/
+packaging/AppIcon.icns
+packaging/AppIcon.iconset/
